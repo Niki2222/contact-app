@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.separator {
+    display: flex;
+    justify-content: space-between;
+}
+
+.content {
+    width: 300px;
+}
+
+.item {
+    display: flex;
+    justify-content: space-between;
+}
